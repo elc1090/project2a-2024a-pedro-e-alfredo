@@ -1,13 +1,6 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
-
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](github-api-tutorial-main/assets/screenshot.png "Screenshot do projeto").
 
 
 #### Daploy
@@ -17,26 +10,22 @@ Preencha aqui a URL para acesso ao site publicado
 
 #### Desenvolvedores
 
-Preencha aqui os nomes de participantes da dupla que desenvolveu o trabalho
+- Pedro Henrique da Silva Hinerasky
+- Alfredo Cossetin Neto
 
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
-- Outras
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
+- Não utilizamos nenhum tutorial ou ajuda
 
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com uma parte focada no trabalho em dupla e outra individual com impressões de cada participante.
+- Buscamos modificar o código distrubído a fim de buscar apenas os commits de um repositório de um usuário. O processo ocorreu tranquilamente, após estudarmos como funcionam os links de acesso de repositórios e commits. Único problema ocorreu ao final, em que a API parou de responder, devido ao grande número de acessos de todas as duplas.
 
 
 
