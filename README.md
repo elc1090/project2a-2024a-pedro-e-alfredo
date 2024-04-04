@@ -3,9 +3,9 @@
 ![Screenshot do projeto](github-api-tutorial-main/assets/screenshot.png "Screenshot do projeto").
 
 
-#### Daploy
+#### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+http://www-usr.inf.ufsm.br/~acneto/public_html
 
 
 #### Desenvolvedores
